@@ -1,4 +1,4 @@
-# Unity Boat physics Tutorial
+# Unity Buoyancy Physics 
 
 Learn how to make a realistic boat in Unity with the physics equations used by actual boats. The main inspiration comes from this article:
 
